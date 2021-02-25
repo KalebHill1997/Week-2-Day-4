@@ -1,0 +1,163 @@
+/* 
+.logo{
+    height: 21px;
+    width: 52px;
+    margin-left: 30px;
+}
+.carsoul{
+    height: 500px;
+    
+}
+.inlinelist li{
+    padding-right: 10px;
+    padding-left: 10px;
+    display: inline;
+    border-right: 1px solid white; 
+  
+}
+
+.inlinelist li:last-child{
+    border-right: none;
+}
+.centered {
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+  }
+  .btncustome button{
+      margin-left:18px;
+  
+      text-align: center;
+    
+  }
+
+  #theOrderOnlineButton {
+      background-color: #e32526;
+      color: white;
+      border-radius: 2px;
+  }
+
+  #navbarNavFooter {
+      background-color: black;
+  }
+
+  #thePaddingoftheFooter {
+      background-color: black;
+  }
+
+  #dropdownMenuButton {
+    background-color: black;
+    border-color: black;
+    
+  }
+
+  #huh {
+      background-color: black;
+  }
+
+  #navbar-nav {
+    padding-left: 5px;
+  } */
+
+  .logo {
+    height: 21px;
+    width: 52px;
+    margin-left: 30px;
+}
+.carsoul{
+    height: 500px;
+}
+.inlinelist li{
+    padding-right: 10px;
+    padding-left: 10px;
+    display: inline;
+    border-right: 1px solid white; 
+}
+.inlinelist li:last-child{
+    border-right: none;
+}
+.centered {
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+  }
+  .btncustome button{
+      margin-left:18px;
+      margin-bottom: 18PX;
+       margin-top:20px;
+      text-align: center;
+  }
+  .padding-0 .col{
+      padding: 0;
+      margin: 0;
+  }
+  .picgrid  img:hover{
+      transform: scale(1.2);
+  }
+  .hide div{
+    overflow:hidden;
+  }
+  .linklchg a:hover, a:visited ,a:active,a {
+      text-decoration: none;
+      color: white;
+  }
+  .linklchg a:hover{
+    text-decoration: none;
+     color: gray;    
+}
+.btn:hover{
+    background-color: black;
+    border-color: black;
+}
+.orderbtn{
+    text-align: center;
+    width:150px;
+    border-radius: 2px;
+}
+.orderbtn:hover{
+    background-color: black;
+    border-color: black;
+}
+.mydropdown{
+    opacity: 0.9;;
+}
+.footer {
+    height: 50px;
+    background-color: black;
+    margin-top: -5px;
+}
+footer div div a {
+    color: white !important;
+    text-decoration: none;
+}
+footer div div a:hover {
+    color: gray !important;
+}
+
+#theTop {
+    background-color: black;
+    padding: none;
+}
+
+#something {
+    background-color: black;
+    color: black;
+}
+
+#footerThingy {
+    align-items: center !important;
+}
+
+#someya {
+    margin: 0px 0px 0px 0px !important;
+}
