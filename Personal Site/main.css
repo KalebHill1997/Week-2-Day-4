@@ -1,0 +1,33 @@
+body {
+    font: 20px "Montserrat", sans-serif;
+    line-height: 1.8;
+    color: #f5f6f7;
+  }
+  
+  p {font-size: 16px;}
+
+  .margin {margin-bottom: 45px;}
+
+  .navbar-default{
+    padding-top: 15px;
+    padding-bottom: 0px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: none !important;
+    font-size: 12px;
+    letter-spacing: 5px;
+    max-height: 10px;
+
+  }
+  
+  .navbar-nav li a:hover {
+    color: #1abc9c !important;
+  }
+
+  #navbar {
+    margin-bottom:0; }
+
+    .header-containter {
+        padding: 0px;
+    }
+
